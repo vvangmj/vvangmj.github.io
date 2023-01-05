@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://vvangmj.github.io/en/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Projects on My New Hugo Site</title>
+    <link>https://vvangmj.github.io/en/projects/</link>
+    <description>Recent content in Projects on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Dec 2022 10:00:00 -0500</lastBuildDate><atom:link href="https://vvangmj.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Dec 2022 10:00:00 -0500</lastBuildDate><atom:link href="https://vvangmj.github.io/en/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demeter - All You Can Cook</title>
       <link>https://vvangmj.github.io/en/projects/demeter/</link>
@@ -27,32 +27,6 @@ Motivation Being a kitchen killer? Clogging mountains of food into your refriger
       <description>Sept 2022 - Dec 2022
 Group Project for Cloud Computing and Big Data
 Motivation Nowadays, people tend to access information from the internet with their mobile devices during small and fragmented moments. Due to the fast living pace, they are not patient enough to read over tedious news articles while trying to understand what’s happening with merely a news title may be too hard and presumptuous. Hence, we’re looking for an AWS service making it easier and more efficient for people to understand ideas of news through title, summary and important details retrieved from articles.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://vvangmj.github.io/en/about/</link>
-      <pubDate>Mon, 26 Dec 2022 22:26:09 -0500</pubDate>
-      
-      <guid>https://vvangmj.github.io/en/about/</guid>
-      <description>Profile👩🏻‍💻 📍 Born in Hangzhou, Zhejiang, China. Gen Z.
-👨‍👩‍👧 From an ordinary working-class family.
-🧚🏻‍♀️ A naive person who are experiencing carefree life, yet.
-👩🏻‍💻 A programmer who are crazy about arts.
-🍽 A spicy food lover who are addicted to desserts as well.
-🔭 Peaceful life with some adventures is the best for me.
-Computer Science💻 Majored in Computer Science for both undergraduation and graduation study.
-3 years of learning CS experience in foundamental related courses (e.</description>
-    </item>
-    
-    
-    <item>
-      <title>Vlog 2022-12-11</title>
-      <link>https://vvangmj.github.io/en/blogs/vlogs/2022-12-11/</link>
-      <pubDate>Sun, 11 Dec 2022 10:00:00 -0500</pubDate>
-      
-      <guid>https://vvangmj.github.io/en/blogs/vlogs/2022-12-11/</guid>
-      <description> </description>
     </item>
     
     <item>
