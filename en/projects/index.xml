@@ -8,6 +8,18 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 31 Dec 2022 10:00:00 -0500</lastBuildDate><atom:link href="https://vvangmj.github.io/en/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cloud Computing and Big Data Projects Based on AWS services</title>
+      <link>https://vvangmj.github.io/en/projects/ccbd/</link>
+      <pubDate>Sat, 31 Dec 2022 10:00:00 -0500</pubDate>
+      
+      <guid>https://vvangmj.github.io/en/projects/ccbd/</guid>
+      <description>Sept 2022 - Dec 2022
+1. Dining Concierge Assistant https://github.com/vvangmj/dining-concierge-assistant
+TLDR Built a Dining Concierge chatbot that sends users restaurant suggestions given a set of preferences that you provide the chatbot with through conversation. 2. AI Photo Album https://github.com/vvangmj/ai-photo-album
+TLDR Implemented a photo album web application that can be searched using natural language through both text and voice. You will learn how to use Lex, OpenSearch, and Rekognition to create an intelligent search layer to query your photos for people, objects, actions, landmarks and more.</description>
+    </item>
+    
+    <item>
       <title>Demeter - All You Can Cook</title>
       <link>https://vvangmj.github.io/en/projects/demeter/</link>
       <pubDate>Sat, 31 Dec 2022 10:00:00 -0500</pubDate>
@@ -15,7 +27,8 @@
       <guid>https://vvangmj.github.io/en/projects/demeter/</guid>
       <description>Sept 2022 - Dec 2022
 Group Project for Software as a Service
-Motivation Being a kitchen killer? Clogging mountains of food into your refrigerator while having no idea how to cook? Wanna show off your culinary skills when there’s a friend visiting? Our Demeter App will assist you in all these scenes! Tapping the ingredients you have and clicking the “search” button, you’ll get all recipes for your target food materials, with calories calculated for your meal.</description>
+Motivation Being a kitchen killer? Clogging mountains of food into your refrigerator while having no idea how to cook? Wanna show off your culinary skills when there’s a friend visiting?
+Our Demeter App will assist you in all these scenes! Tapping the ingredients you have and clicking the “search” button, you’ll get all recipes for your target food materials, with calories calculated for your meal.</description>
     </item>
     
     <item>
